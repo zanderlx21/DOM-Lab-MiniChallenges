@@ -1,0 +1,17 @@
+
+
+button {
+    width: 150px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 8px;
+    background-color: rgb(64, 139, 102);
+    color: white;
+    font-weight: bold;
+};
+
+#lightBulb {
+    
+    background-color: darkgray;
+    
+}
